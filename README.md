@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Saini</h1>
-<h3 align="center">Crafting Seamless Experiences with React, React Native, and TypeScript | Mastering the Art of HTML, CSS, and Tailwind CSS | Harnessing the Power of Firebase for Next-Level Applications</h3>
+<h3 align="center">Crafting Seamless Experiences with React, React Native, and TypeScript | Metaverse Developer | Harnessing the Power of Firebase for Next-Level Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusaini105&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusaini105" /> </p>
 
