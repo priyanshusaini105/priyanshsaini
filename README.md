@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [AKGEC ERP App](https://github.com/priyanshusaini105/AKGEC)
 
-- 👨‍💻 All of my projects are available at [https://priyanshusaini.vercel.app/](https://priyanshusaini.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.priyanshusaini.co/](https://www.priyanshusaini.co/)
 
 - 📝 I regularly write articles on [https://medium.com/@priyanshusaininew](https://medium.com/@priyanshusaininew)
 
